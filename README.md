@@ -10,6 +10,9 @@ TO PLAY THE GAME YOU ALSO NEED TO DOWNLOAD URSINA ENGINE
 ```
 to install ursina engine:
 open cmd
-type in: pip install ursina
+type in:
+```
+**pip install ursina**
+```
 let it install
 ```
